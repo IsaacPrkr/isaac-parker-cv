@@ -1,0 +1,2 @@
+build:
+	lualatex cv.tex
